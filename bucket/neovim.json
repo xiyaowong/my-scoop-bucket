@@ -14,7 +14,7 @@
             "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip"
         }
     },
-    "extract_dir": "Neovim",
+    "extract_dir": "nvim-win64",
     "bin": ["bin\\nvim.exe", "bin\\nvim-qt.exe"],
     "shortcuts": [["bin\\nvim-qt.exe", "Neovim"]],
     "checkver": {
